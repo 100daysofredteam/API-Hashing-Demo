@@ -1,5 +1,5 @@
 
-# Reference: https://trikkss.github.io/posts/hiding_windows_api_calls_part1/
+//Reference: https://trikkss.github.io/posts/hiding_windows_api_calls_part1/
 
 #include <windows.h>
 #include <stdio.h>
